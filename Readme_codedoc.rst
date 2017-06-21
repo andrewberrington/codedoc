@@ -1,5 +1,5 @@
-Buuidling the html pages
-++++++++++++++++++++++++
+Buidling the html pages
++++++++++++++++++++++++
 
 
 1. put this in your .bashrc to add the A301 code to PYTHONPATH::
